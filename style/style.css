@@ -1,3 +1,9 @@
 *{
     margin: 0;
 }
+.gradiante_h1{
+    background-image: linear-gradient(yellow, red);
+}
+
+
+ 
